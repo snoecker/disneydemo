@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/bin/cmake;-P;/home/noecker/projects/helloworld/build/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/download-curl-populate.cmake;COMMAND;/usr/bin/cmake;-P;/home/noecker/projects/helloworld/build/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/verify-curl-populate.cmake;COMMAND;/usr/bin/cmake;-P;/home/noecker/projects/helloworld/build/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/extract-curl-populate.cmake
+source_dir=/home/noecker/projects/helloworld/build/_deps/curl-src
+work_dir=/home/noecker/projects/helloworld/build/_deps
+url(s)=https://github.com/curl/curl/releases/download/curl-7_81_0/curl-7.81.0.tar.xz
+hash=SHA256=a067b688d1645183febc31309ec1f3cdce9213d02136b6a6de3d50f69c95a7d3
+no_extract=
+
